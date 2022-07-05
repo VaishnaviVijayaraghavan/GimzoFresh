@@ -1,0 +1,23 @@
+Navbar {
+  position: fixed;
+}
+
+.active {
+  text-decoration: none;
+  background-color: rgb(0, 0, 0);
+  font-weight: bold;
+  border-radius: 5px;
+}
+
+.nav-link {
+  font-size: larger;
+}
+
+.navbar-custom {
+  /* background-color: rgb(0, 106, 26); */
+  background: -webkit-linear-gradient(
+    left,
+    rgb(29, 157, 159),
+    rgb(15, 122, 42)
+  );
+}
